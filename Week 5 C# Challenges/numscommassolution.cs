@@ -29,6 +29,7 @@
         {
             string formatted =  String.Format("{0:n0}", number);
             return formatted;
+            Console.WriteLine(formatted);
         }
       
         }
@@ -67,6 +68,7 @@ else
 {
 Console.WriteLine("Invalid");
 }
+ */
 
 
 // Reflection
