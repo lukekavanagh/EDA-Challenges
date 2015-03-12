@@ -22,20 +22,30 @@ public static Median (list <int>)
 
  public static int Median(List<int> list)
         {
-            list.Sort();
-
-            if (list.Count % 2 == 0)
+    
+        public static int Median(List<int> list)
+        {
+            list.Sort();//sort the list
+            if (list.Count % 2 == 0)// the count method uses modulo to check if the field returned from the list can be divided by two...
             {
-                int sum = int sum = list[(list.Count / 2) - 1] + list[(list.Count / 2)];
-                return sum / 2;
+               
+                int a = list[(list.Count / 2) - 1]; //if count is even, average the two elements, integer a and b
+                int b = list[(list.Count / 2)];
+                return (a + b) / 2;
             }
             else
-                return list.Count / 2;
+            {
+                
+                return list.Count / 2; // if count is odd, return the middle element.
+               
+            }
+          
 
 
 
-
-
+        }
+    }
+}
 /*******Look at Solution*******/
 // Second Refactored solution
 

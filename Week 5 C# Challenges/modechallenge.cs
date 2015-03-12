@@ -20,17 +20,19 @@
                 var counts = new Dictionary<int, int>(); //store the number of occurences of a number in a new Dictionary //
              foreach (int element in array) // using foreach loop add one to the count for each occurence of an element
              {
-                 if (counts.ContainsKey(element))
-                     counts[element]++;    
+                 if (counts.ContainsKey(element)) // when iterating through the dictionary called counts,
+                                                    // if any element contains key
+                     counts[element]++;      //add element to counts
                  else
-                     counts.Add(element, 1);
+                     counts.Add(element, 1);  // else add key value pair to counts
              }
-             int max = 0;  //using a foreach loop, loop through the counts of each element and find the elements
+             int max = 0; //create an integer to hold max
+                           
+             foreach (var count in counts)  //using a foreach loop, loop through the counts of each element and find the elements
                             //that occured most often
-             foreach (var count in counts)
              {
-                 if (count.Value <= max) continue; //you're looking in the dictionary values with count
-                 max = count.Value; // assigning max to count value;
+                 if (count.Value <= max) continue; //you're looking in the 'counts' dictionary values with count and stating if the element count's values are less than or equal to max..
+                 max = count.Value; // assign max to count value;
              }
 
              foreach (var count in counts)
@@ -55,7 +57,7 @@ public static List<int> Mode(List<int> array)
         {
             modeList = new List<int>();
 
-            if (array != null && array.Count() > 0)
+            if (array != null && array.Count() > 0) //test for a null reference or empty list
             {
                 var counts = new Dictionary<int, int>();
              foreach (int element in array)
@@ -73,12 +75,12 @@ public static List<int> Mode(List<int> array)
              }
              var values = new List<int>(counts.Values); // added values variable which is a list of integers takes the variable for the count frequency's values as an input
              values.Sort();                             // sort the values numerically //
-             var maxFrequency = values[values.Count - 1]; // created variable max frequency that establishes the last indexed element in the list //
+             var maxFrequency = values[values.Count - 1]; // created variable max frequency that establishes the last indexed element in the values list //
 
              foreach (var count in counts) 
              {
-                 if (count.Value == maxFrequency) // if count.value is the same as max frequency
-                     modeList.Add(count.Key); // add count key to modelist.
+                 if (count.Value == maxFrequency) // if an element's value in the counts dictionary is equal to the max frequency
+                     modeList.Add(count.Key); // add the count element's key to modelist.
              }
             }
             return modeList;
