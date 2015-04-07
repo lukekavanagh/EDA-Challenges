@@ -1,0 +1,9 @@
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\bin\Debug\RectangleUnitTests.dll
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\bin\Debug\RectangleUnitTests.pdb
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\bin\Debug\nunit.framework.dll
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\bin\Debug\RectangleShapes.dll
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\bin\Debug\RectangleShapes.pdb
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\bin\Debug\nunit.framework.xml
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\obj\Debug\RectangleUnitTests.csprojResolveAssemblyReference.cache
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\obj\Debug\RectangleUnitTests.dll
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleUnitTests\obj\Debug\RectangleUnitTests.pdb

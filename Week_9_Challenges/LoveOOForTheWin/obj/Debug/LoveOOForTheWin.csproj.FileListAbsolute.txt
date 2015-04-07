@@ -1,0 +1,6 @@
+C:\Dev\eda\phase-0-week-9\cs\oo-basics\Challenge\LoveOOForTheWin\bin\Debug\LoveOOForTheWin.exe.config
+C:\Dev\eda\phase-0-week-9\cs\oo-basics\Challenge\LoveOOForTheWin\bin\Debug\LoveOOForTheWin.exe
+C:\Dev\eda\phase-0-week-9\cs\oo-basics\Challenge\LoveOOForTheWin\bin\Debug\LoveOOForTheWin.pdb
+C:\Dev\eda\phase-0-week-9\cs\oo-basics\Challenge\LoveOOForTheWin\obj\Debug\LoveOOForTheWin.csprojResolveAssemblyReference.cache
+C:\Dev\eda\phase-0-week-9\cs\oo-basics\Challenge\LoveOOForTheWin\obj\Debug\LoveOOForTheWin.exe
+C:\Dev\eda\phase-0-week-9\cs\oo-basics\Challenge\LoveOOForTheWin\obj\Debug\LoveOOForTheWin.pdb

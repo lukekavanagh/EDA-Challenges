@@ -1,0 +1,5 @@
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleShapes\bin\Debug\RectangleShapes.dll
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleShapes\bin\Debug\RectangleShapes.pdb
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleShapes\obj\Debug\RectangleShapes.csprojResolveAssemblyReference.cache
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleShapes\obj\Debug\RectangleShapes.dll
+C:\Dev\eda\phase-0-week-9\cs\rectangle-class\Challenge\RectangleShapes\obj\Debug\RectangleShapes.pdb
