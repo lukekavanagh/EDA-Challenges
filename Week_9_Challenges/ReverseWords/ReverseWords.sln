@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{BC1D0562-DE6F-4912-A77B-809E9F3970C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseWords", "ReverseWords\ReverseWords.csproj", "{9BAD68B9-8C38-49FC-8DC8-2B52A458DC49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject", "UnitTestProject\UnitTestProject.csproj", "{1191F4A9-2666-4E91-9E32-AB5E9E76B4DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC1D0562-DE6F-4912-A77B-809E9F3970C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1D0562-DE6F-4912-A77B-809E9F3970C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1D0562-DE6F-4912-A77B-809E9F3970C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1D0562-DE6F-4912-A77B-809E9F3970C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAD68B9-8C38-49FC-8DC8-2B52A458DC49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAD68B9-8C38-49FC-8DC8-2B52A458DC49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAD68B9-8C38-49FC-8DC8-2B52A458DC49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAD68B9-8C38-49FC-8DC8-2B52A458DC49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1191F4A9-2666-4E91-9E32-AB5E9E76B4DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1191F4A9-2666-4E91-9E32-AB5E9E76B4DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1191F4A9-2666-4E91-9E32-AB5E9E76B4DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1191F4A9-2666-4E91-9E32-AB5E9E76B4DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

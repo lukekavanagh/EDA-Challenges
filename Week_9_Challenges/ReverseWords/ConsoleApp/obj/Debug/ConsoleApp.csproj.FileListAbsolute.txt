@@ -1,0 +1,8 @@
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\obj\Debug\ConsoleApp.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\bin\Debug\ReverseWords.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\bin\Debug\ReverseWords.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache

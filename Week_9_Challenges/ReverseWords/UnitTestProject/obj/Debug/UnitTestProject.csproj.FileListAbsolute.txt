@@ -1,0 +1,11 @@
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\nunit.framework.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\ReverseWords.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\ReverseWords.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\nunit.framework.xml
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\ConsoleApp.exe
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\UnitTestProject\bin\Debug\ConsoleApp.pdb

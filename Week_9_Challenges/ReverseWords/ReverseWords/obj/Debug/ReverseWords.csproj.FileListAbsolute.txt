@@ -1,0 +1,5 @@
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ReverseWords\bin\Debug\ReverseWords.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ReverseWords\bin\Debug\ReverseWords.pdb
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ReverseWords\obj\Debug\ReverseWords.csprojResolveAssemblyReference.cache
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ReverseWords\obj\Debug\ReverseWords.dll
+C:\Dev\eda\phase-0-week-9\cs\reverse-words\Challenge\ReverseWords\obj\Debug\ReverseWords.pdb
